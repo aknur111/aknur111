@@ -140,7 +140,7 @@ Ensemble ML model for buy/hold signal prediction with technical indicator featur
 
 <div align="center">
 
-*Open to junior backend / ML engineering roles · Astana, Kazakhstan*
+*Open to backend / ML engineering roles · Astana, Kazakhstan*
 
 ![Profile views](https://komarev.com/ghpvc/?username=aknur111&color=7F77DD&style=flat-square&label=profile+views)
 
